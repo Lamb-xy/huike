@@ -81,22 +81,3 @@
 统计分析
 
 ![](docs/img/页面/统计分析.png)
-
-
-
-
-新的惊喜
-=========================
-想进步、要关注。关注老铁抖音号，成为'铁丝' ：）
-
-<img src="docs/img/douyin.jpeg" width="300"  alt="抖音号" />
-<br><br>
-加微信、加入Java开源技术交流群
-<br>
-<img src="docs/img/weixin.jpeg" width="300"  alt="微信交流群" />
-<br><br>
-
-更多福利
-=========================
-
-[了解更多项目](https://pip.itcast.cn/home)
